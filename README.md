@@ -3,9 +3,9 @@
 ![Here's what I look like](https://github.com/vivekhandebagh/vivekhandebagh.github.io/assets/54450878/e2c2508d-1121-4188-963c-adb429957083)
 
 Hi, my name is Vivek Handebagh. I am an undergraduate pursuing a B.S. in Physics and Minor in Neuroscience @ the University of California, Davis.
-My current research interests include Complex Systems, AI, and Theoretical Neuroscience. This page will serve as a place for my thoughts, learnings, and projects.
+My current research interests include Complex Systems, AI, and Theoretical Neuroscience. This site will serve as a place for my thoughts, learnings, and projects.
 
-Here is a list of personal questions on Consciousness, AI, and Neuroscience? Some of these questions have a real scope in being answered sooner than later with the rapid technological developments, while other questions are simple whimsical.
+Here is a list of personal questions on Consciousness, AI, and Neuroscience. As I read more literature and as the world changes, I will try to come back to these questions and fill them out here.
 
 + What is the nature of intelligence?
 
@@ -31,7 +31,7 @@ Here is a list of personal questions on Consciousness, AI, and Neuroscience? Som
 
 + What is aesthetics?
 
-+ Is aesthetics exclusive to the human condition? Also do other species on the planet have a sense of aesthetics?
++ Is aesthetics exclusive to the human condition? Do other species on the planet have a sense of aesthetics?
 
 + What formal relationships can be drawn between ethics and game theory? What is the ideal game that AI should be playing and how can that help define the morality of an AI model?
 
