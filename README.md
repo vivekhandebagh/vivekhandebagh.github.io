@@ -1,10 +1,9 @@
 # vivekhandebagh.github.io
 
-Hi, my name is Vivek Handebagh. I am an undergraduate pursuing a B.S. in Physics and Minor in Neuroscience @ the University of California, Davis.
-My current research interests include Complex Systems, AI, and Theoretical Neuroscience. This page will serve as a place for my thoughts, learnings, and projects.
-
 ![Here's what I look like](https://github.com/vivekhandebagh/vivekhandebagh.github.io/assets/54450878/e2c2508d-1121-4188-963c-adb429957083)
 
+Hi, my name is Vivek Handebagh. I am an undergraduate pursuing a B.S. in Physics and Minor in Neuroscience @ the University of California, Davis.
+My current research interests include Complex Systems, AI, and Theoretical Neuroscience. This page will serve as a place for my thoughts, learnings, and projects.
 
 Here is a list of personal questions on Consciousness, AI, and Neuroscience? Some of these questions have a real scope in being answered sooner than later with the rapid technological developments, while other questions are simple whimsical.
 
