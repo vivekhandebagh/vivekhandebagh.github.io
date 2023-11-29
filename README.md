@@ -43,6 +43,8 @@ Here is a list of personal questions on Consciousness, AI, and Neuroscience. As 
 
 + What is it to dream? What is it to experience a lucid dream?
 
++ What is the nature of the relationship between the thermodynamic framework of entropy and the information theoretic framework of entropy?
+
 
 
 
