@@ -2,6 +2,8 @@
 
 ![Here's what I look like](https://github.com/vivekhandebagh/vivekhandebagh.github.io/assets/54450878/e2c2508d-1121-4188-963c-adb429957083)
 
+THIS SITE IS STILL UNDER DEVELOPMENT
+
 Hi, my name is Vivek Handebagh. I am an undergraduate pursuing a B.S. in Physics and Minor in Neuroscience @ the University of California, Davis.
 My current research interests include Complex Systems, AI, and Theoretical Neuroscience. This site will serve as a place for my thoughts, learnings, and projects.
 
