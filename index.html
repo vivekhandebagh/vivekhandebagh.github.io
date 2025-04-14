@@ -7,6 +7,10 @@ title: Home
   <h1 class="page-title">Welcome to My Blog</h1>
   
   <p class="page-description"> Welcome to my garden. Any thoughts and ideas I find interesting might be planted here. I am currently a 4th year at University of California, Davis studying Physics and Neuroscience.</p>
+  
+  <div class="featured-image">
+    <img src="{{ '/assets/images/gorillas.jpg' | relative_url }}" alt="Gorillas" />
+  </div>
 
   <h2>Recent Posts</h2>
   <ul class="post-list">
@@ -48,8 +52,20 @@ title: Home
     font-family: 'EB Garamond', serif;
     font-size: 1.2em;
     text-align: center;
-    margin-bottom: 3rem;
+    margin-bottom: 2rem;
     color: #444;
+  }
+  
+  .featured-image {
+    margin: 0 auto 3rem;
+    text-align: center;
+  }
+  
+  .featured-image img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 5px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.2);
   }
 
   h2 {
