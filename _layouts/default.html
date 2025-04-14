@@ -27,11 +27,11 @@
   <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
 </head>
 <body class="{% if page.url == '/' %}home{% endif %}">
-  <header>
+  <header{% if page.url == '/' %} class="home-header"{% endif %}>
     <h1><a href="{{ site.baseurl }}/">{{ site.title }}</a></h1>
   </header>
   
-  <nav>
+  <nav{% if page.url == '/' %} class="home-nav"{% endif %}>
     <ul>
       <li><a href="{{ site.baseurl }}/">Home</a></li>
       <li><a href="{{ site.baseurl }}/blog">Blog</a></li>
