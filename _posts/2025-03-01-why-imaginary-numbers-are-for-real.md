@@ -6,9 +6,9 @@ date: "March 2025"
 math: true
 ---
 
-## Why imaginary numbers are for real for real
+# Why imaginary numbers are for real for real
 
-# Introduction
+## Introduction
 
 The absurdity of imaginary numbers is inherent in its name. Maybe it would have been fine if it were a fun little intellectual experiment confined to the minds of socially secluded schizophrenic mathematicians. Yet, it is not so, and we would be unable to explain nor engineer our world without the fantastical, almost mystical, beings that are imaginary numbers. The relevance of \\(i\\) in the mathematical framework of the world is largely weighted in Euler's equation:
 
@@ -20,7 +20,7 @@ However, as deep and powerful as Euler's equation truly is, it is perhaps one of
 
 In this document I hope to build a new and far deeper intuition that will actually motivate why such a relation must exist. I will do so by building on fundamental principles to ensure you really understand it, so I ask that you keep with me even if you feel like something is trivial. You might find yourself thinking about these things from a perspective you hadn't before, and you might even find yourself reading a handful of philosophical sentences intertwined with the math. Ultimately, the Euler equation encodes a deeper truth about the universe, but it's often wholly ignored.
 
-# Looking to the left
+## Looking to the left
 
 The absurdity starts with the definition of the imaginary unit $i$ as $\sqrt{-1}$. Actually, I must correct myself. The craziness starts with negative numbers itself. If I am going about my day and see one friend to my right and another friend to my left, my brain observes their simultaneous positions with respect to itself as the center. To observe or describe this situation accurately, the brain must carry some quantifiable measure of relative distance and an additional piece of qualitative information that is apparent from the fact that I must move my head to look at each of my friends. That is, the description must carry a notation that specifies the direction relative to the arbitrary center of reference. This should seem trivial, but what I mean is that negative numbers arise from some arbitrary definition of a 0 as the midpoint of an infinite set, and this slightly unintuitive weirdness of negative numbers can be tolerated as they can still describe physical observables.
 
@@ -28,7 +28,7 @@ Now, when we say we are multiplying two numbers together, what we mean is that w
 
 The existence of negative numbers, or the need for this flipping operator, characterizes a fundamental symmetry of the world. Because what does it mean to flip? To flip really means that there are two sides to flip between—that there are two and only two sides to flip between, for flipping twice puts you back on the side you started with. What negative numbers are really doing is saying that you cannot approach the world without a point of reference to approach from, and doing so divides the world in two. It tells us that you cannot move forward without having moved away from what was behind you. In other words, contrast creates existence.
 
-# Cycling through the sets
+## Cycling through the sets
 
 In our notation, we just stick a ($-$) in front of numbers, but in reality, this flipping operation is carried out by multiplying a number by $-1$. Thus, taking $-1$ to some power $n$ means to flip some quantity $n$ times.
 
@@ -70,7 +70,7 @@ $$
 
 This by itself doesn't reveal anything about the physical world. At the end of the day we just invented some mechanism by which we gain two more tokens to cycle through in some particular order. We do know that there must be some important role that this pattern plays in our description of the world. So what can we find from the real world that has this sort of oscillatory behavior of the same periodicity?
 
-# Steadfast in motion
+## Steadfast in motion
 
 Since we are dealing with some type of oscillations, we may as well check to see if there is something that our fellow \\(\sin()\\) and \\(\cos()\\) operators have to say. If we look at a plot of either \\(\cos()\\) or \\(\sin()\\), there are four points of interest to notice within one period of oscillation: the trough, the crest, and the two points where the slope of the curve is the steepest, all of which are separated by a distance \\(\frac{\pi}{2}\\). Hmm, a cycle of four, maybe there is a hint here?
 
@@ -108,7 +108,7 @@ e \approx 2.7183818\ldots
 
 Why this particular number? Well, that is a question that you must ask the day you meet your God. But even if you do, he may likely laugh at you for trying to find meaning in some random number that he generated. Nevertheless, it is still a real number, so we can marvel at it as long as we want while still being okay with it showing up in the real world. The beauty of mathematics here is in recognizing that there is this qualitative similarity of retaining a sense of identity under differentiation (which I will call *steadfastness in motion*) between two separate families of functions, and thinking (dare I say knowing) that it must be more than a coincidence. There must be some bridge to build.
 
-# Tracing the clues
+## Tracing the clues
 
 Up until now I have been focused on providing intuition, patterns, and qualities that can help one say "Oh yeah, as absurd as Euler's equation is, it makes sense that all of these components are connected in some way or another." The formal proof of Euler's identity is something you may have already seen. But if you are this far into this document you might as well revisit it and pause to think deeper about what is actually happening.
 
@@ -178,7 +178,7 @@ e^{ix} = \cos x + i\sin x,
 
 and there we have it—the celebrated Euler's formula!
 
-# Geometric consequences
+## Geometric consequences
 
 The sinusoidal functions, which are the fundamental functions that describe the oscillatory aspects of the universe, happen to also describe the fundamental relationships of geometry. At first, these trigonometric functions represent lengths and ratios of triangles. But at a deeper glance, what they are really trying to reveal is the relationship between the concepts of distance and direction.
 
@@ -230,6 +230,6 @@ $$
 
 This shows that whenever there is a phase difference, the extra phase term can be simply factored out, allowing us to avoid dealing with complicated trigonometric identities. Note that this works just as well with sine functions instead of cosines if you remember to add a global phase of $\frac{\pi}{2}$.
 
-# Conclusion
+## Conclusion
 
 Hopefully, by now you feel that Euler's formula is not just some absurd mathematical relation that should not make any sense. While Euler's formula does act as an identity that can be used as a trick to simplify computations, it is a profound and marvelous equation that is motivated by a logical effort to uncover a deeper unity behind strange concepts in our universe. What began with a seemingly nonsensical quantity—the square root of negative one—has unfolded into a journey that ties together the symmetries of space, the symmetries of oscillation, and the symmetries inherent in differentiation. Really, the square root of negative one is a mechanism that represents the rhythms of nature. It does not just complement the real; it completes it.
