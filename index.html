@@ -13,6 +13,20 @@ title: Home
   
   <p class="page-description"> My name is Vivek I am currently a 4th year at University of California, Davis studying Physics and Neuroscience. Any thoughts and ideas I find interesting might be planted here. </p>
   
+  <div class="social-icons">
+    <a href="https://www.linkedin.com/in/your-linkedin-profile" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn">
+      <img src="{{ '/assets/icons/linkedin-brands.svg' | relative_url }}" alt="LinkedIn" />
+    </a>
+    <a href="https://twitter.com/your-twitter-handle" target="_blank" rel="noopener noreferrer" aria-label="Twitter/X">
+      <img src="{{ '/assets/icons/x.svg' | relative_url }}" alt="Twitter/X" />
+    </a>
+    <a href="https://www.instagram.com/your-instagram-handle" target="_blank" rel="noopener noreferrer" aria-label="Instagram">
+      <img src="{{ '/assets/icons/instagram.svg' | relative_url }}" alt="Instagram" />
+    </a>
+    <a href="https://arxiv.org/a/your-arxiv-id.html" target="_blank" rel="noopener noreferrer" aria-label="arXiv">
+      <img src="{{ '/assets/icons/arxiv.svg' | relative_url }}" alt="arXiv" />
+    </a>
+  </div>
   
   <h2>Recent Posts</h2>
   <ul class="post-list">
@@ -68,6 +82,36 @@ title: Home
     height: auto;
     border-radius: 5px;
     box-shadow: 0 2px 8px rgba(0,0,0,0.2);
+  }
+  
+  .social-icons {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 1.5rem;
+    margin: 2rem 0 3rem;
+  }
+  
+  .social-icons a {
+    display: inline-block;
+    transition: transform 0.2s ease;
+  }
+  
+  .social-icons a:hover {
+    transform: scale(1.15);
+  }
+  
+  .social-icons img {
+    width: 32px;
+    height: 32px;
+    vertical-align: middle;
+    filter: grayscale(100%);
+    opacity: 0.8;
+  }
+  
+  .social-icons img:hover {
+    filter: none;
+    opacity: 1;
   }
 
   h2 {
