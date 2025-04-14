@@ -35,11 +35,6 @@
     <ul>
       <li><a href="{{ site.baseurl }}/">Home</a></li>
       <li><a href="{{ site.baseurl }}/blog">Blog</a></li>
-      <li>
-        <button id="theme-toggle" aria-label="Toggle dark mode">
-          <span id="theme-toggle-icon">🌙</span>
-        </button>
-      </li>
     </ul>
   </nav>
   
@@ -50,6 +45,10 @@
   <footer>
     <p>&copy; {{ site.time | date: "%Y" }} {{ site.title }}</p>
   </footer>
+  
+  <button id="theme-toggle" aria-label="Toggle dark mode">
+    <span id="theme-toggle-icon">🌙</span>
+  </button>
   <script>
     // Theme toggle functionality
     const themeToggle = document.getElementById('theme-toggle');
