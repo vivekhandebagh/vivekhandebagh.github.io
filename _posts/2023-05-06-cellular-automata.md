@@ -27,7 +27,7 @@ One-dimensional CAs can be visually analyzed using space-time diagrams. However,
 
 ## Structures of Cellular Automata
 
-![Spacetime diagram of elementary CA 225](/assets/images/225_spacetime.png)
+![Spacetime diagram of elementary CA 225](/assets/CA_images/225_spacetime.png)
 
 What does it mean for a CA to contain structures? The image above is a space-time diagram of the elementary CA 225. We see two distinct *textures* propagating through space and time, both driven by the same update rule. Our focus is not just on visually interesting patterns but on understanding their *functional role* in computation and information propagation.
 
@@ -61,7 +61,7 @@ CNNs use convolutional layers that apply filters across input data to extract fe
 
 A study by Gilpin [^1] showed that CNNs can be trained to learn arbitrary CA rules. However, this doesn't necessarily imply that they can generalize beyond the training data.
 
-![The convolution operation](/assets/images/image.png)
+![The convolution operation](/assets/CA_images/image.png)
 
 As a baseline, we trained a simple sequential neural network (2 layers, 64 neurons each) to predict the next state of a 10-bit CA (Rule 225). Despite seeing all possible input strings during training, the model only reached ~20% accuracy, later optimized to ~50%. This surprising difficulty motivates our investigation into the *simplest models* capable of learning even simple CA dynamics.
 
@@ -77,7 +77,7 @@ $$
 
 Entropy helps distinguish regions of order and disorder in CA evolution. Instead of global entropy, we compute local entropy over neighborhoods and assign the value to the center cell, creating a **feature map** of uncertainty.
 
-![Entropy plot for CA 225](/assets/images/225_entropy_plot.png)
+![Entropy plot for CA 225](/assets/CA_images/225_entropy_plot.png)
 
 This entropy map shows distinct spatial zones in the CA, sharply delineated and possibly indicating distinct underlying structures. We speculate that these entropy “bands” may correspond to fundamental modes of organization within the CA.
 

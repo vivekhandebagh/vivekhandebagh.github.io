@@ -40,7 +40,7 @@ title: Home
         {% if post.description %}
           <p>{{ post.description }}</p>
         {% else %}
-          <p>{{ post.excerpt | strip_html | truncatewords: 50 }}</p>
+          <p>{{ post.excerpt | strip_html | truncatewords: 250 }}</p>
         {% endif %}
       </li>
     {% endfor %}

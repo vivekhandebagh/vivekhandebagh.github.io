@@ -13,7 +13,7 @@ permalink: /blog/
     {% if post.description %}
       <p>{{ post.description }}</p>
     {% else %}
-      <p>{{ post.excerpt | strip_html | truncatewords: 50 }}</p>
+      <p>{{ post.excerpt | strip_html | truncatewords: 250 }}</p>
     {% endif %}
     <a href="{{ post.url | relative_url }}" class="read-more">Read more...</a>
   </article>
