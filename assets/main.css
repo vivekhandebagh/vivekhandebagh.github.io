@@ -11,9 +11,13 @@ body {
 
 /* Landing page specific styles */
 body.home {
-    background: url('/assets/images/pink_white.png') no-repeat center center fixed;
+    /*
+    background: url('../images/pink_white.png') no-repeat center center fixed;
     background-size: cover;
-    min-height: 100vh;
+    min-height: 100vh;*/
+
+    background-color: #fff;
+    
 }
 
 /* Transparent header and nav for home page */

@@ -4,14 +4,16 @@ title: Home
 ---
 
 <div class="home-content">
-  <h1 class="page-title">Welcome to My Blog</h1>
-  
-  <p class="page-description"> Welcome to my garden. Any thoughts and ideas I find interesting might be planted here. I am currently a 4th year at University of California, Davis studying Physics and Neuroscience.</p>
-  
+  <h1 class="page-title">Welcome to my garden.</h1>
+
   <div class="featured-image">
-    <img src="{{ '/assets/images/gorillas.jpg' | relative_url }}" alt="Gorillas" />
+    <img src="{{ '/assets/images/gorillas.jpg' | relative_url }}" alt="gorillas" />
   </div>
 
+  
+  <p class="page-description"> My name is Vivek I am currently a 4th year at University of California, Davis studying Physics and Neuroscience. Any thoughts and ideas I find interesting might be planted here. </p>
+  
+  
   <h2>Recent Posts</h2>
   <ul class="post-list">
     {% for post in site.posts %}
