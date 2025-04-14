@@ -22,6 +22,24 @@ body.home {
     border: none;
 }
 
+.home-header {
+    padding: 1rem 1.5rem;
+    margin-bottom: 2rem;
+    text-align: center;
+}
+
+.home-nav ul {
+    display: flex;
+    justify-content: center;
+    padding: 0;
+    margin: 0 0 2rem 0;
+    list-style: none;
+}
+
+.home-nav li {
+    margin: 0 1rem;
+}
+
 /* Container for content */
 main {
     max-width: 45rem;  /* about 70-80 characters per line */
