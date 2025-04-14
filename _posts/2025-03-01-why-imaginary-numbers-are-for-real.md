@@ -4,11 +4,11 @@ title: "Why imaginary numbers are for real"
 author: "Vivek S. Handebagh"
 date: "March 2025"
 math: true
-image: /assets/images/euler_identity.jpg
+image: /assets/images/hammerhead_long.png
 ---
 
 <div class="post-header-image">
-  <img src="{{ '/assets/images/euler_identity.jpg' | relative_url }}" alt="Euler's Identity" />
+  <img src="{{ '/assets/images/hammerhead_long.png' | relative_url }}" alt="hammerhead" />
 </div>
 
 ## Introduction
