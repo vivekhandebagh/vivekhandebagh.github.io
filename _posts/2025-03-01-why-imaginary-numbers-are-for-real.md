@@ -1,10 +1,15 @@
 ---
 layout: post
-title: "Why imaginary numbers are for real for real"
+title: "Why imaginary numbers are for real"
 author: "Vivek S. Handebagh"
 date: "March 2025"
 math: true
+image: /assets/images/euler_identity.jpg
 ---
+
+<div class="post-header-image">
+  <img src="{{ '/assets/images/euler_identity.jpg' | relative_url }}" alt="Euler's Identity" />
+</div>
 
 ## Introduction
 
