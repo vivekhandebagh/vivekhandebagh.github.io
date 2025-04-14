@@ -9,16 +9,14 @@ body {
     background-color: #fff;
 }
 
-/* Landing page specific styles */
+/* Landing page specific styles 
 body.home {
-    /*
+    
     background: url('../images/pink_white.png') no-repeat center center fixed;
     background-size: cover;
-    min-height: 100vh;*/
-
-    background-color: #fff;
+    min-height: 100vh;
     
-}
+}*/
 
 /* Transparent header and nav for home page */
 .home-header, .home-nav {
