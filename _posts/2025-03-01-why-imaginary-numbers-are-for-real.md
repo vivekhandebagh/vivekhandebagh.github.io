@@ -6,6 +6,8 @@ date: "March 2025"
 math: true
 ---
 
+## Why imaginary numbers are for real for real
+
 # Introduction
 
 The absurdity of imaginary numbers is inherent in its name. Maybe it would have been fine if it were a fun little intellectual experiment confined to the minds of socially secluded schizophrenic mathematicians. Yet, it is not so, and we would be unable to explain nor engineer our world without the fantastical, almost mystical, beings that are imaginary numbers. The relevance of \\(i\\) in the mathematical framework of the world is largely weighted in Euler's equation:
