@@ -10,14 +10,10 @@ body {
 }
 
 /* Landing page specific styles */
-body.home main {
-    background: url('/assets/images/pink_white.png') no-repeat center center fixed;
+body.home {
+    background: url('../images/pink_white.png') no-repeat center center fixed;
     background-size: cover;
-    min-height: 100vh;
-    margin: 0;
-    padding: 0;
 }
-
 
 /* # Add a semi-transparent overlay for better text readability on the landing page 
 body.home main {
