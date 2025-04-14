@@ -16,13 +16,14 @@ body.home {
     min-height: 100vh;
 }
 
-/* Add a semi-transparent overlay for better text readability on the landing page */
+
+/* # Add a semi-transparent overlay for better text readability on the landing page 
 body.home main {
     background: rgba(255, 255, 255, 0.9);
     padding: 2rem;
     border-radius: 8px;
     box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
-}
+}*/
 
 /* Container for content */
 main {
