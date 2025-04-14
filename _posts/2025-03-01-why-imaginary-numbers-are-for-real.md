@@ -2,15 +2,16 @@
 title: "Why imaginary numbers are for real for real"
 author: "Vivek S. Handebagh"
 date: "March 2025"
+math: true
 ---
 
 # Introduction
 
-The absurdity of imaginary numbers is inherent in its name. Maybe it would have been fine if it were a fun little intellectual experiment confined to the minds of socially secluded schizophrenic mathematicians. Yet, it is not so, and we would be unable to explain nor engineer our world without the fantastical, almost mystical, beings that are imaginary numbers. The relevance of $i$ in the mathematical framework of the world is largely weighted in Euler's equation:
+The absurdity of imaginary numbers is inherent in its name. Maybe it would have been fine if it were a fun little intellectual experiment confined to the minds of socially secluded schizophrenic mathematicians. Yet, it is not so, and we would be unable to explain nor engineer our world without the fantastical, almost mystical, beings that are imaginary numbers. The relevance of \\(i\\) in the mathematical framework of the world is largely weighted in Euler's equation:
 
-$$
+\\[
 e^{ix} = \cos x + i\sin x,
-$$
+\\]
 
 However, as deep and powerful as Euler's equation truly is, it is perhaps one of the most shallowly introduced ideas. Most people are wildly bewildered by Euler's equation at first sight. Even though it had been mathematically derived for them, there might have still been a subtle feeling akin to forcing yourself to simultaneously swallow two flavors that should have never been plated together. Nevertheless, your bewilderment and confusion is washed away by a sea of plug-and-chug homework problems. But if you really pause and stare at this equation, it looks absolutely absurd.
 
@@ -68,9 +69,9 @@ This by itself doesn't reveal anything about the physical world. At the end of t
 
 # Steadfast in motion
 
-Since we are dealing with some type of oscillations, we may as well check to see if there is something that our fellow $\sin()$ and $\cos()$ operators have to say. If we look at a plot of either $\cos()$ or $\sin()$, there are four points of interest to notice within one period of oscillation: the trough, the crest, and the two points where the slope of the curve is the steepest, all of which are separated by a distance $\frac{\pi}{2}$. Hmm, a cycle of four, maybe there is a hint here?
+Since we are dealing with some type of oscillations, we may as well check to see if there is something that our fellow \\(\sin()\\) and \\(\cos()\\) operators have to say. If we look at a plot of either \\(\cos()\\) or \\(\sin()\\), there are four points of interest to notice within one period of oscillation: the trough, the crest, and the two points where the slope of the curve is the steepest, all of which are separated by a distance \\(\frac{\pi}{2}\\). Hmm, a cycle of four, maybe there is a hint here?
 
-But perhaps, the most intriguing or magical property of the sinusoidal function is that the rate of change of the function oscillates with the same frequency. That is, the derivative of a sinusoidal function remains unaltered except for it being shifted over by a distance $\frac{\pi}{2}$. Okay, so let's try and probe this a little deeper. What happens if we keep differentiating a sinusoidal function?
+But perhaps, the most intriguing or magical property of the sinusoidal function is that the rate of change of the function oscillates with the same frequency. That is, the derivative of a sinusoidal function remains unaltered except for it being shifted over by a distance \\(\frac{\pi}{2}\\). Okay, so let's try and probe this a little deeper. What happens if we keep differentiating a sinusoidal function?
 
 $$
 \frac{d}{dx} \sin x = \cos x
@@ -88,19 +89,19 @@ $$
 \frac{d}{dx} (-\cos x) = \sin x
 $$
 
-Notice a pattern? It takes us four steps of repeated differentiation to return to our initial condition. This makes sense given that we had just seen that there were four points of interest separated by $\frac{\pi}{2}$. Each time we differentiate, we are iterating to the next point of interest. Looking closer, it shouldn't take much effort to perform some pattern matching and draw analogies between 1 and $i$ with $\sin x$ and $\cos x$. The intuition that I aim to build here is that these sinusoidal functions, which are as universally fundamental and physically rooted as a mathematical concept can get, have really special relationships with each other and their negatives that look eerily similar to the cycles of $i$. In other words, it is this pattern of cycling through a set of four that we are observing and using to construct bridges across these seemingly unrelated mathematical objects.
+Notice a pattern? It takes us four steps of repeated differentiation to return to our initial condition. This makes sense given that we had just seen that there were four points of interest separated by \\(\frac{\pi}{2}\\). Each time we differentiate, we are iterating to the next point of interest. Looking closer, it shouldn't take much effort to perform some pattern matching and draw analogies between 1 and $i$ with $\sin x$ and $\cos x$. The intuition that I aim to build here is that these sinusoidal functions, which are as universally fundamental and physically rooted as a mathematical concept can get, have really special relationships with each other and their negatives that look eerily similar to the cycles of $i$. In other words, it is this pattern of cycling through a set of four that we are observing and using to construct bridges across these seemingly unrelated mathematical objects.
 
 So let me reiterate here that the derivative of a sinusoidal function remains a sinusoidal function. The crazy part is that there is another function that exhibits this sort of resilience and steadfastness. This function remains completely unchanged under differentiation, almost as if it was so deeply rooted in its purpose that its motion looked still, completely pure and inseparable from its identity. It was not like this because it belonged to a particular family or nationality of functions. Rather, it was its one-pointedness, or its focus on exactly one particular unending string of numbers. That is
 
-$$
+\\[
 f(x) = e^{x}
-$$
+\\]
 
 where
 
-$$
+\\[
 e \approx 2.7183818\ldots
-$$
+\\]
 
 Why this particular number? Well, that is a question that you must ask the day you meet your God. But even if you do, he may likely laugh at you for trying to find meaning in some random number that he generated. Nevertheless, it is still a real number, so we can marvel at it as long as we want while still being okay with it showing up in the real world. The beauty of mathematics here is in recognizing that there is this qualitative similarity of retaining a sense of identity under differentiation (which I will call *steadfastness in motion*) between two separate families of functions, and thinking (dare I say knowing) that it must be more than a coincidence. There must be some bridge to build.
 
@@ -158,19 +159,19 @@ Nope! Same problem. Note that there is no use in trying $\cos (-x)$ or $\sin (-x
 
 Now the question is: How do we find the right way to introduce $i$ into the equation? It would be easier if we start with the exponential side. It would do us no good if we just scaled every term in the series by $i$. The whole point is to create a new oscillating pattern of positives and negatives. The only way to do this is to place $i$ in the input of the exponential. Or, $x$ must become $ix$, and the left-hand side should be $e^{ix}$. Expanding this out, we get:
 
-$$
+\\[
 e^{ix} = \sum_{n=0}^{\infty} \frac{(ix)^n}{n!} = 1 + ix - \frac{x^2}{2!} - \frac{ix^3}{3!} + \frac{x^4}{4!} + \cdots
-$$
+\\]
 
-From this, it is clear that only the odd terms carry a factor of $i$. If we rearrange the series:
+From this, it is clear that only the odd terms carry a factor of \\(i\\). If we rearrange the series:
 
-$$
+\\[
 e^{ix} = \Bigl(1 - \frac{x^2}{2!} + \frac{x^4}{4!} + \cdots\Bigr) + \Bigl(ix  - \frac{ix^3}{3!}  + \cdots\Bigr)
-$$
+\\]
 
-$$
+\\[
 e^{ix} = \cos x + i\sin x,
-$$
+\\]
 
 and there we have it—the celebrated Euler's formula!
 
