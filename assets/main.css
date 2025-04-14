@@ -6,6 +6,7 @@ body {
     margin: 0;
     padding: 0;
     color: #222;
+    background: url('pink_white.png') no-repeat center center fixed;
     background-color: #fff;
 }
 
