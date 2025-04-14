@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Why imaginary numbers are for real for real"
 author: "Vivek S. Handebagh"
 date: "March 2025"

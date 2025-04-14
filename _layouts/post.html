@@ -1,0 +1,45 @@
+---
+layout: default
+---
+<article class="post">
+  <header class="post-header">
+    <h1>{{ page.title }}</h1>
+    <p class="post-meta">
+      <time datetime="{{ page.date | date_to_xmlschema }}">
+        {{ page.date | date: "%B %-d, %Y" }}
+      </time>
+      {% if page.author %}
+        • {{ page.author }}
+      {% endif %}
+    </p>
+  </header>
+
+  <div class="post-content">
+    {{ content }}
+  </div>
+</article>
+
+<style>
+  .post-header {
+    margin-bottom: 3rem;
+    text-align: center;
+  }
+
+  .post-header h1 {
+    font-family: 'EB Garamond', serif;
+    font-weight: 500;
+    font-size: 2.5em;
+    margin-bottom: 0.5rem;
+    line-height: 1.2;
+  }
+
+  .post-meta {
+    color: #666;
+    font-style: italic;
+  }
+
+  /* Add some spacing between sections */
+  .post-content > h1:not(:first-child) {
+    margin-top: 3rem;
+  }
+</style> 
