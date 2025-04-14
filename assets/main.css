@@ -99,6 +99,28 @@ nav a {
     margin-bottom: 1.5rem;
 }
 
+/* Blog post preview styles */
+.post-preview h2 a {
+    color: #333;
+    text-decoration: none;
+    transition: color 0.2s ease;
+}
+
+.post-preview h2 a:hover {
+    color: #666;
+}
+
+.post-preview .read-more {
+    color: #666;
+    text-decoration: none;
+    font-size: 0.9em;
+    transition: color 0.2s ease;
+}
+
+.post-preview .read-more:hover {
+    color: #333;
+}
+
 /* Headings within posts */
 .post-content h1,
 .post-content h2,
