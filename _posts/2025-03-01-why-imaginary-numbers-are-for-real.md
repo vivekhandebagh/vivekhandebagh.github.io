@@ -2,7 +2,7 @@
 layout: post
 title: "Why imaginary numbers are for real"
 author: "Vivek S. Handebagh"
-date: "March 2025"
+date: "April 14 2025"
 math: true
 image: /assets/images/hammerhead_long.png
 ---
