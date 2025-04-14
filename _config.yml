@@ -1,0 +1,11 @@
+title: My Jekyll Blog
+email: your-email@example.com
+description: "A simple blog built with Jekyll on GitHub Pages."
+baseurl: "" # leave empty for user pages, or use "/repo-name" for project pages
+url: "https://yourusername.github.io" # update with your GitHub pages URL
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
