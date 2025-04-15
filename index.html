@@ -32,9 +32,9 @@ title: Home
     </a>
   </div>
   
-  <h2>Recent Posts</h2>
+  <h2>Latest Post</h2>
   <ul class="post-list">
-    {% for post in site.posts %}
+    {% for post in site.posts limit:1 %}
       <li>
         <h3>
           <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
