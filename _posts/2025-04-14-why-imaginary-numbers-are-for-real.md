@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Why imaginary numbers are for real"
+title: "Why Imaginary Numbers are For Real"
 author: "Vivek S. Handebagh"
 date: 2025-04-14
 math: true
