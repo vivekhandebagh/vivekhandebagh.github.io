@@ -8,23 +8,23 @@ date: 2025-04-20
 ![The moon was pretty](/assets/images/under_moon.png)
 
 
-> The moon was beautiful tonight.  
+> The moon was pretty tonight.  
 > Yet I still felt so conflicted.  
 > I want to understand the beautiful.  
 > But on the other hand, I want to feel the beautiful.  
 > The search for intellectual clarity seems to prevent it.  
 > Perhaps feeling it is maximal knowledge of it.  
-> I don't know anymore.  
+> I really don't know anymore.  
 >   
 > Sleep feels blissful.  
-> Non‑existence feels good right now.  
+> Non‑existence kind of feels good right now.  
 > Am I sad?  
-> I don't know what I am tired from.  
+> I don't know why I am still tired.  
 > Do you ever just feel like laying down on the concrete?  
 > Perhaps I am tired of being the only one to witness myself.  
 > It is just that same, stupid, simple feeling—  
-> You know when you keep driving and driving…  
-> the AC stops working and you end up melting into the seat.  
+> You know when you keep driving and driving 
+> and the AC stops working and you end up melting into the seat.  
 > It no longer feels like there is a passenger on this journey.  
 >   
 > My desire to understand is ultimately a desire to be understood.  
@@ -47,18 +47,16 @@ date: 2025-04-20
 > If only I had a Ring camera for my consciousness.  
 >   
 > I tried building a snowman once.  
-> My fingers froze though.  
-> But it wasn't the first time I felt that way.  
+> But my fingers froze.  
+> It wasn't the first time I felt that way.  
 >   
-> Really, I am not a depressing person.  
+> I really am not a depressing person
+> I don't want to be one.  
 > I just want to feel something tonight.  
-> I am sure you know that feeling.  
-> The pianist between my ears is playing well tonight.  
+> I'm sure you know the feeling.  
+> The pianist between my ears is playing tremendously well tonight.  
 > It's hitting harder than Minecraft music.  
-> It's just that I can't tell if I am in creative mode or if I am just trying to survive.  
+> The problem is just that I can't tell if I am in creative mode or if this is me trying to survive.  
 >   
-> The moon was pretty tonight.  
-> I just want her to unlock me.  
-> I just want the sun to pour into me, the grass to breathe into me, and the rain to help me cry.  
-> I just want the breeze to play with my hair.  
+> The moon, she was pretty tonight.
 {: .verse}
