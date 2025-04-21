@@ -264,3 +264,6 @@ img {
         text-align: left; /* Disable justification on mobile for better readability */
     }
 } 
+
+/* keep line breaks inside poetry blocks */
+.verse { white-space: pre-line; }
