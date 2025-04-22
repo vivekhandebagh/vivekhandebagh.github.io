@@ -10,13 +10,13 @@
     --code-bg: #f5f5f5;
     --blockquote-bg: #f9f9f9;
     --blockquote-border: #ddd;
-    body {
+    /*body {
         background:
-          url('/assets/images/snake-border.png') left 20px top repeat-y,
-          url('/assets/images/snake-border.png') right 20px top repeat-y;
+          url('/assets/images/snake-border.png') left 2px top repeat-y,
+          url('/assets/images/snake-border.png') right 2px top repeat-y;
         background-color: var(--bg-color);
         background-size: auto;
-      }
+      }*/
       
     
 }
@@ -32,13 +32,14 @@
     --code-bg: #2a2a2a;
     --blockquote-bg: #252525;
     --blockquote-border: #444;
-    [data-theme="dark"] body {
+
+    /*body {
         background:
           url('/assets/images/snake-border-dark.png') left 20px top repeat-y,
           url('/assets/images/snake-border-dark.png') right 20px top repeat-y;
         background-color: var(--bg-color);
         background-size: auto;
-      }
+      }*/
       
 }
 
