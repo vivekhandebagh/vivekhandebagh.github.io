@@ -10,6 +10,15 @@
     --code-bg: #f5f5f5;
     --blockquote-bg: #f9f9f9;
     --blockquote-border: #ddd;
+    body {
+        background:
+          url('/assets/images/snake-border.png') left 20px top repeat-y,
+          url('/assets/images/snake-border.png') right 20px top repeat-y;
+        background-color: var(--bg-color);
+        background-size: auto;
+      }
+      
+    
 }
 
 [data-theme="dark"] {
@@ -23,6 +32,14 @@
     --code-bg: #2a2a2a;
     --blockquote-bg: #252525;
     --blockquote-border: #444;
+    [data-theme="dark"] body {
+        background:
+          url('/assets/images/snake-border-dark.png') left 20px top repeat-y,
+          url('/assets/images/snake-border-dark.png') right 20px top repeat-y;
+        background-color: var(--bg-color);
+        background-size: auto;
+      }
+      
 }
 
 /* Basic reset and typography */
@@ -272,11 +289,3 @@ img {
 
 /* keep line breaks inside poetry blocks */
 .verse { white-space: pre-line; }
-
-body {
-    background: url('/assets/images/snake-border.png') left top repeat-y,
-                url('/assets/images/snake-border.png') right top repeat-y;
-    background-color: white; /* or whatever base background */
-    background-size: auto;
-  }
-  
