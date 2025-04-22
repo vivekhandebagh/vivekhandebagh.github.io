@@ -7,7 +7,6 @@ date: 2025-04-20
 
 ![The moon was pretty](/assets/images/under_moon.png)
 
-
 > The moon was pretty tonight.  
 > Yet, I still felt so conflicted.  
 > I want to understand the beautiful.  
@@ -45,7 +44,7 @@ date: 2025-04-20
 > I tried building a snowman once.  
 > But my fingers froze.  
 > It wasn't the first time I felt that way.
-> I really am not a depressed person--
+> I really am not a depressed person.
 > As fashionable as it may be.  
 > I just felt something tonight.  
 > I'm sure you know what I am talking about.  

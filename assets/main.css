@@ -272,3 +272,11 @@ img {
 
 /* keep line breaks inside poetry blocks */
 .verse { white-space: pre-line; }
+
+body {
+    background: url('/assets/images/snake-border.png') left top repeat-y,
+                url('/assets/images/snake-border.png') right top repeat-y;
+    background-color: white; /* or whatever base background */
+    background-size: auto;
+  }
+  
