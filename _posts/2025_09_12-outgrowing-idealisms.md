@@ -4,12 +4,10 @@ title: "Outgrowing Idealisms: Some thoughts"
 author: "Vivek S. Handebagh"
 date: 2025-08-12
 math: false
-image: /assets/images/horses-volcano.jpg
 ---
 
-<div class="post-header-image">
-  <img src="{{ '/assets/images/horses-volcano.jpg' | relative_url }}" alt="me n who" />
-</div>
+![horses](/assets/images/horses-volcano.jpg)
+
 
 Im not a commie nor are I too well read on marxist literature, but I have to agree with the idea that human nature is downstream of the material conditions that surround it. 
 
