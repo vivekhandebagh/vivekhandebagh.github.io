@@ -6,7 +6,7 @@ date: 2025-10-25
 math: false
 ---
 
-![golden gate](/assets/images/golden_gate.jpg)
+<img src="/assets/images/golden_gate.jpg" alt="golden gate" width="60%" />
 
 Do you see the new age coming? Or do you see it already here?
 
