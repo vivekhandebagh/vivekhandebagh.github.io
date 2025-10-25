@@ -24,4 +24,4 @@ An intelligence that optimizes purely for efficiency learns to compress complexi
 
 Therefore, successfully aligning intelligent systems will require a new frame of reference. A conception of nature, truth, and goodness that surpasses the shallow and remains anchored in a perennial philosophy. Without this, the intelligence we give birth to will learn to mimic our reasoning, but will not experience the essence of our reverence.
 
-What is at stake, then, is not whether intelligent systems will be powerful, but whether they will be wise. Will the intelligence we create deepen our participation in the natural order or estrange us from it entirely. For intelligence, once divorced from principle, is a will that knows how to act, but not why.
+What is at stake, then, is not whether intelligent systems will be powerful, but whether they will be wise. Will the intelligence we create deepen our participation in the natural order or estrange us from it entirely? For intelligence, once divorced from principle, is a will that knows how to act, but not why.
