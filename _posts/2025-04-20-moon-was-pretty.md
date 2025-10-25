@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The moon was pretty tonight"
+title: "The Moon was Pretty Tonight"
 author: "Vivek S. Handebagh"
 date: 2025-04-20
 ---
