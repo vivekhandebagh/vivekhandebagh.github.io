@@ -16,11 +16,9 @@ It’s quite interesting, actually both Chanakya and Marx share this sense of hi
 
 I am reminded of this in part by the recent events of political violence, but largely this has already been a latent thought in my mind. I actually think power dynamics, political struggles, and violence is by nature a never ending loop. Theorists like Polybius have been describing anacyclosis: the cycle of monarchy decaying into tyranny, then aristocracy to oligarchy, democracy to mob rule, and back. And this dynamic is reflected in history at various scales.
 
-That said, if there is any axis in the world along which change has been monotonic rather than cyclical, it is technology and the material abundance that emerges as a function of it. We literally went from sticks and stones to building quantum chips, and through all of that and before, humans have been fighting endless turf-wars.
+That said, if there is any axis in the world along which change has been monotonic rather than cyclical, it is technology and the material abundance that emerges as a function of it. We literally went from sticks and stones to building quantum chips, and through all of that and before, humans have been fighting endless turf-wars. This is fundamentally because social games and power grabs are zero-sum—someone wins only if someone else loses. Technology and wealth creation, on the other hand, are positive-sum; they expand the pie for everyone. 
 
-This is fundamentally because social games and power grabs are zero-sum—someone wins only if someone else loses. Technology and wealth creation, on the other hand, are positive-sum; they expand the pie for everyone. And as material abundance grew, so too did the standards by which we judge ourselves and others. 
-
-For the first time in the history of the world, your moral rating within the local socio-intellectual circle is conditioned on making strong statements about injustices and complex situations thousands of miles away from you.
+But as material abundance grows, so too do the standards by which we judge each other. For the first time in the history of the world, your moral rating within the local socio-intellectual circle is conditioned on making strong statements about injustices and complex situations thousands of miles away from you.
 
 I don’t think our psychology has evolved fast enough to process suffering at this scope. And as a result, you see the emergence of two polar archetypes: the Instagram activists with a range of mental health issues and the matcha drinking NPCs strolling in a blissful ignorance. 
 
