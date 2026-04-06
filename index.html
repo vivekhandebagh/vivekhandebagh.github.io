@@ -4,19 +4,19 @@ title: Home
 ---
 
 <div class="home-content">
-  <h1 class="page-title" style="font-size: 3rem;">Welcome to my garden.</h1>
+  <h1 class="page-title scroll-reveal" style="font-size: 3rem;">Welcome to my garden.</h1>
 
-  <div class="featured-image">
-    <img src="{{ '/assets/images/pond.gif' | relative_url }}" alt="pond"/>
+  <div class="featured-image parallax-container">
+    <img src="{{ '/assets/images/pond.gif' | relative_url }}" alt="pond" class="parallax-img"/>
   </div>
 
 
-  
-  <p class="page-description"> 
+
+  <p class="page-description scroll-reveal">
     My name is Vivek. I am a PhD student at UC Davis studying physics and theoretical neuroscience. I'm mainly interested in mechanistic interpretability and theories of intelligence. Reach out at viveksimha[at]gmail[dot]com.
   </p>
-  
-  <div class="social-icons">
+
+  <div class="social-icons scroll-reveal">
     <a href="https://www.linkedin.com/in/vivek-handebagh-a492b317a/" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn">
       <img src="{{ '/assets/icons/linkedin-brands.svg' | relative_url }}" alt="LinkedIn" />
     </a>
@@ -31,8 +31,8 @@ title: Home
     </a>
   </div>
   
-  <h2>Latest Post</h2>
-  <ul class="post-list">
+  <h2 class="scroll-reveal">Latest Post</h2>
+  <ul class="post-list scroll-reveal">
     {% for post in site.posts limit:1 %}
       <li>
         <h3>
@@ -174,4 +174,52 @@ title: Home
     padding: 0.5rem 1rem;
     font-size: 0.875rem;
   }
-</style> 
+
+  /* Scroll reveal animations */
+  .scroll-reveal {
+    opacity: 0;
+    transform: translateY(24px);
+    transition: opacity 0.8s ease, transform 0.8s ease;
+  }
+
+  .scroll-reveal.visible {
+    opacity: 1;
+    transform: translateY(0);
+  }
+
+  /* Parallax */
+  .parallax-container {
+    overflow: hidden;
+  }
+
+  .parallax-img {
+    will-change: transform;
+    transition: transform 0.1s linear;
+  }
+</style>
+
+<script>
+  // Scroll-reveal with IntersectionObserver
+  document.addEventListener('DOMContentLoaded', () => {
+    const reveals = document.querySelectorAll('.scroll-reveal');
+    const observer = new IntersectionObserver((entries) => {
+      entries.forEach(entry => {
+        if (entry.isIntersecting) {
+          entry.target.classList.add('visible');
+          observer.unobserve(entry.target);
+        }
+      });
+    }, { threshold: 0.15 });
+
+    reveals.forEach(el => observer.observe(el));
+
+    // Parallax on featured image
+    const parallaxImg = document.querySelector('.parallax-img');
+    if (parallaxImg) {
+      window.addEventListener('scroll', () => {
+        const scrollY = window.scrollY;
+        parallaxImg.style.transform = 'translateY(' + scrollY * 0.15 + 'px)';
+      }, { passive: true });
+    }
+  });
+</script>

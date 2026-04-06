@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+<div class="reading-progress-bar" id="reading-progress"></div>
 <article class="post">
   <header class="post-header">
     <h1>{{ page.title }}</h1>
@@ -55,4 +56,35 @@ layout: default
   .post-content > h1:not(:first-child) {
     margin-top: 3rem;
   }
-</style> 
+
+  /* Reading progress bar */
+  .reading-progress-bar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 3px;
+    background: var(--link-color, #0366d6);
+    width: 0%;
+    z-index: 1000;
+    transition: width 0.1s linear;
+  }
+</style>
+
+<script>
+  document.addEventListener('DOMContentLoaded', () => {
+    const progressBar = document.getElementById('reading-progress');
+    const article = document.querySelector('.post-content');
+
+    window.addEventListener('scroll', () => {
+      const articleTop = article.offsetTop;
+      const articleHeight = article.offsetHeight;
+      const windowHeight = window.innerHeight;
+      const scrollY = window.scrollY;
+
+      const start = articleTop;
+      const end = articleTop + articleHeight - windowHeight;
+      const progress = Math.min(Math.max((scrollY - start) / (end - start), 0), 1);
+      progressBar.style.width = (progress * 100) + '%';
+    }, { passive: true });
+  });
+</script>
