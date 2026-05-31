@@ -6,7 +6,7 @@ date: 2026-05-31
 math: false
 ---
 
-![otter](assets/images/otter.jpg)
+![otter](/assets/images/otter.jpg)
 
 Have you seen the group of otters chase the butterfly?
 
@@ -19,7 +19,7 @@ It makes me think, what all have we done? What is left to do?
 “Oh my god, guess what I found on Instagram?? We HAVE to go and do-“
 
 
-----------------------------------------------------------
+-------------------------------------------------
 
 
 Somehow, waking up for nothing grander than the fragrance of a dark roast feels enough.
