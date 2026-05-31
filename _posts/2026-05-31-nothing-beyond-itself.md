@@ -9,7 +9,6 @@ math: false
 ![otter](/assets/images/otter.jpg)
 
 Have you seen the group of otters chase the butterfly?
-
 We really do live in an unbelievably precious world.
 All of it.
 All of it is just a flickering candle.
