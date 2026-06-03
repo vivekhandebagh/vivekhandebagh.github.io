@@ -4,11 +4,11 @@ title: "Why Imaginary Numbers are For Real"
 author: "Vivek S. Handebagh"
 date: 2025-04-14
 math: true
-image: /assets/images/hammerhead_long.png
+image: /assets/images/wizard.jpg
 ---
 
 <div class="post-header-image">
-  <img src="{{ '/assets/images/hammerhead_long.png' | relative_url }}" alt="hammerhead" />
+  <img src="{{ '/assets/images/wizard.jpg' | relative_url }}" alt="wiz" />
 </div>
 
 ## Introduction
