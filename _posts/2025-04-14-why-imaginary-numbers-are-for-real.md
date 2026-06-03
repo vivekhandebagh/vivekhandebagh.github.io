@@ -4,12 +4,10 @@ title: "Why Imaginary Numbers are For Real"
 author: "Vivek S. Handebagh"
 date: 2025-04-14
 math: true
-image: /assets/images/wizard.jpg
 ---
 
-<div class="post-header-image">
-  <img src="{{ '/assets/images/wizard.jpg' | relative_url }}" alt="wiz" />
-</div>
+![horses](/assets/images/wizard.jpg)
+
 
 ## Introduction
 
