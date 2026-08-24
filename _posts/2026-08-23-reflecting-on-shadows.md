@@ -37,9 +37,11 @@ But along with it, the shadow creates a profound sense of mystery. It's enigmati
 
 From here, it's only natural to recognize that there exists an interplay between the shadow and its dual. But I felt this more deeply than I probably should have. It feels like when the shadow is given respect, or darkness given a seat in your frame, the light starts to take form. 
 
-![three](/assets/shadow_images/IMG_5559.png)
 
 As in this photo, the light feels like a character, as if it's actively walking through the door.
+
+![three](/assets/shadow_images/IMG_5559.png)
+
 
 ![four](/assets/shadow_images/IMG_5563.png)
 
