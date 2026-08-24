@@ -68,8 +68,10 @@ The second one is slightly better. Passable. I don't find anything glaringly pro
 The third one, however, pays respect to the shadow- 
 ![nine](/assets/shadow_images/IMG_5596.png)
 
-and now the light manifests in to what immediately feels like some sort of feminine form. 
+and now the light manifests in to what immediately feels like some sort of feminine form.
 
 ----------------------------------------------
 
+If you even happen to be in Washington, I encourage you to find the time to go visit Keshavam!
 
+![ten](/assets/shadow_images/IMG_5571.png)
