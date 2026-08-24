@@ -48,25 +48,27 @@ As in this photo, the light feels like a character, as if it's actively walking 
 
 ![five](/assets/shadow_images/staircase.png)
 
-
-Now this is interesting because even though its just a different framing of the same scene, the role of light and shadow is flipped.
+--------------------------------------------------
+Now this photo is interesting because even though its just a different framing of picture four, the role of light and shadow is flipped.
 
 
 ![six](/assets/shadow_images/IMG_5564.png)
 
- Usually, you have something like a spotlit object contrasted against a darker scape. But here the lightful object is much flatter, and the shadows are the depthful object placed over a light background instead.
+ Usually, you have something like a spotlit object contrasted against a darker scape. But here the lightful object is much flatter, and the shadows are the depthful object being placed over a light background instead.
 
 --------------------------------------------------
-I was walking outside during the evening, took this pictures, and found them to be quite revealing. 
+I was walking outside during the evening when I took these pictures. I find them to be quite revealing. 
 
-The first one here is over-exposed.
+The first one here is over-exposed. See top-left corner.
 ![seven](/assets/shadow_images/IMG_5597.png)
 
 The second one is slightly better. Passable. I don't find anything glaringly problematic.
 ![eight](/assets/shadow_images/IMG_5598.png)
 
-The third one, however, pays respect to the shadow- and now the light manifests in to what immediately feels like some sort of feminine form. 
+The third one, however, pays respect to the shadow- 
 ![nine](/assets/shadow_images/IMG_5596.png)
+
+and now the light manifests in to what immediately feels like some sort of feminine form. 
 
 ----------------------------------------------
 
