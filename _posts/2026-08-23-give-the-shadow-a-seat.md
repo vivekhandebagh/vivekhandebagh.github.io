@@ -72,6 +72,6 @@ and now the light manifests in to what immediately feels like some sort of femin
 
 ----------------------------------------------
 
-Anywaysm, if you ever happen to be in DC, I encourage you to find the time to go visit Keshavam!
+Anyways, if you ever happen to be in DC, I encourage you to find the time to go visit Keshavam!
 
 ![ten](/assets/shadow_images/IMG_5571.png)
