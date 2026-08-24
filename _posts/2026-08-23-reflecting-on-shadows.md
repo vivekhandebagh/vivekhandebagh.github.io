@@ -6,7 +6,7 @@ date: 2026-08-23
 math: false
 ---
 
-![one](/assets/images/IMG_5563.png)
+![one](/assets/shadow_images/IMG_5563.png)
 
 > A camera is a device for learning how to see without a camera.
 > —Dorothea Lang
